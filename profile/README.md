@@ -3,7 +3,8 @@
 
 ## [Our Minds](https://our-minds.github.io)  
 
-# SAS.5
+SAS.5
+---
 A mental health platform by [Bornelabs](https://bornelabs.github.io) 
 
 
