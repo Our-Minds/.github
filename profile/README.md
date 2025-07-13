@@ -1,17 +1,13 @@
 <div align="center">
 
 
-## [Our Minds](https://our-minds.github.io)  
+# [Our Minds](https://our-minds.github.io/) 
 
-SAS.5
----
-A mental health platform by [Bornelabs](https://bornelabs.github.io) 
-
-
+SAS.4
 
 </div>
 
-# About
+## About
 
 **Our Minds** is a digital mental wellness platform offering access to licensed consultants, safe story-sharing spaces, and supportive real-time conversations. This README highlights the key features of the platform using interface screenshots arranged in functional order.
 
